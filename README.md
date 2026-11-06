@@ -14,3 +14,10 @@ Menciona tus notebooks, gráficos o scripts más importantes.
 
 Explica qué archivos abrir, en qué orden, y si el notebook ya incluye carga del dataset
 
+# para títulos,
+## para subtítulos,
+- para listas,
+**texto en negritas**,
+*texto en cursiva*,
+``` para bloques de código,
+[]() para enlaces,
